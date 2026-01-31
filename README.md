@@ -43,6 +43,26 @@ This is an interactive RPG prototype developed in Unreal Engine 5 using Blueprin
 - Full Unreal Engine 5 project files are not included due to size and asset licensing constraints
 - This project was developed using a structured Unreal Engine 5 tutorial as a foundation. All gameplay mechanics were implemented manually and extended through customisation, debugging, and adaptation across the engine versions and assets
 
+## Screenshots
+
+**Opening Cinematic**
+![Cinematic](screenshots/01_cinematic.png)
+
+**Player Movement**
+![Movement](screenshots/02_movement.png)
+
+**Combat & AI**
+![Combat](screenshots/03_combat.png)
+
+**Inventory / UI**
+![Inventory](screenshots/04_inventory.png)
+
+**Quest System**
+![Quest](screenshots/05_quest.png)
+
+**World / Environment**
+![World](screenshots/06_world.png)
+
 ## What I Learned
 This project helped me develop a deeper understanding of systems-based design and Unreal Engine 5 workflows through hands-on implementation and iteration:
 - Designed and connected multiple interactive systems using Blueprint-based architecture
