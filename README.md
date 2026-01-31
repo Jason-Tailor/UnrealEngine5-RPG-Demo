@@ -1,5 +1,5 @@
 # UnrealEngine5-RPG-Demo
-This is an Unreal Engine 5 RPG prototype, using Blueprint-based systems. it features Third Person Movement, AI-driven enemies, Combat mechanics, Inventory Management, Quests and Levels System, alongside additional world systems. Developed through independent implementation, customization and debugging using a structured UE5 tutorial as a foundation.
+This is an Unreal Engine 5 RPG prototype, using Blueprint-based systems. It features Third Person Movement, AI-driven enemies, Combat mechanics, Inventory Management, Quests and Levels System, alongside additional world systems. Developed through independent implementation, customisation, and debugging using a structured UE5 tutorial as a foundation.
 ## Demo Video
 [Watch Gameplay Demo] (https://drive.google.com/file/d/1NAffCJ96p9DaqcCkBhthIEP2b5sKqhqN/view?usp=sharing)
 ## Key Features Shown in the Video (In Order)
@@ -40,7 +40,7 @@ This is an Unreal Engine 5 RPG prototype, using Blueprint-based systems. it feat
 
 ## Development Notes
 - This repository is for documentation and presentation purposes
-- Full Unreal Engine 5 project files are not included due to size and asset licensing constraints.
+- Full Unreal Engine 5 project files are not included due to size and asset licensing constraints
 - This project was developed using a structured Unreal Engine 5 tutorial as a foundation. All gameplay mechanics were implemented manually and extended through customisation, debugging, and adaptation across the engine versions and assets
 
 ## What I Learned
