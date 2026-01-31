@@ -1,5 +1,5 @@
 # UnrealEngine5-RPG-Demo
-This is an Unreal Engine 5 RPG prototype, using Blueprint-based systems. It features Third Person Movement, AI-driven enemies, Combat mechanics, Inventory Management, Quests and Levels System, alongside additional world systems. Developed through independent implementation, customisation, and debugging using a structured UE5 tutorial as a foundation.
+This is an interactive RPG prototype developed in Unreal Engine 5 using Blueprint-based systems. It demonstrates complex, interconnected gameplay and system softwares including AI behaviour, event-driven UI, state management, and player progression mechanics. The project was built through independent implementation, customisation, and debugging, using a structured Unreal Engine 5 tutorial as a foundation. 
 ## Demo Video
 [Watch Gameplay Demo](https://drive.google.com/file/d/1NAffCJ96p9DaqcCkBhthIEP2b5sKqhqN/view?usp=sharing)
 ## Key Features Shown in the Video (In Order)
@@ -10,7 +10,7 @@ This is an Unreal Engine 5 RPG prototype, using Blueprint-based systems. It feat
 - Day/Night cycle
 - Footstep system tied to player movement
 
-**Core Player System**
+**Core Player Mechanics**
 - Third-person movement, including sprinting, crouching, jumping, and dodging
 - Health and Stamina system
 - Parkour and assassination systems
@@ -44,11 +44,12 @@ This is an Unreal Engine 5 RPG prototype, using Blueprint-based systems. It feat
 - This project was developed using a structured Unreal Engine 5 tutorial as a foundation. All gameplay mechanics were implemented manually and extended through customisation, debugging, and adaptation across the engine versions and assets
 
 ## What I Learned
-This project helped me develop a deeper understanding of systems-based design and Unreal Engine 5 workflows through hands-on implementation and iteration
-- How to design and connect multiple gameplay systems using Blueprint-based architecture
-- Implementing AI behaviour using perception, state logic, and animation-driven feedback
-- Building and managing UI systems (inventory, menus, quest tracking) using UMG
-- Structuring player progression through quests, experience and levelling systems
-- Debugging Blueprint logic and adapting systems across Unreal Engine versions
-- Managing large open-world environments using Landscape and Foliage tools
-- Balancing scope and polish when working on a long-form, systems-heavy project
+This project helped me develop a deeper understanding of systems-based design and Unreal Engine 5 workflows through hands-on implementation and iteration:
+- Designed and connected multiple interactive systems using Blueprint-based architecture
+- Implemented AI behaviour and state logic with animation-driven feedback
+- Built and managed interactive UI systems, including menus and inventory tracking
+- Structured and persisted system states such as player progression and quests
+- Debugged complex Blueprint logic and adapted systems across engine versions
+- Managed large open-world environments with Landscape and Foliage tools
+- Balanced scope and polish when developing a long-form, systems-heavy prototype
+- Applied event-driven programming and systems-thinking skills transferable to software engineering roles
